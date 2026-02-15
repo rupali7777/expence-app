@@ -1,0 +1,5 @@
+{
+  "name": "FinanceSuperApp",
+  "description": "A comprehensive financial dashboard and calculator suite featuring retirement planning, loan amortization, investment growth tracking, and tax estimation.",
+  "requestFramePermissions": []
+}
